@@ -1,6 +1,6 @@
 # ULO Controller and Library
 
-Some time ago I have been playing around with ULO to create C# library that will allow me to use ULOs API, which for now is still undocumented by author. The main reason for me was, to create a tool that will allow me to download video files from ULOs memory to my network storage, set ulo mode and all this to be an open source project for people to use.
+Some time ago I have been playing around with ULO to create C# library that will allow me to use ULOs API, which for now is still undocumented by (author)[https://vivien-muller.fr/setup]. The main reason for me was, to create a tool that will allow me to download video files from ULOs memory to my network storage, set ULO mode and all this to be an open source project for people to use.
 
 Once I found that files can be accessed from web, I know there is a way how to programatically access these files as well. From web browsers network monitor I was able to scrape a lot for API calls in the background to get a little idea, how ULO works behind the scenes.
 
